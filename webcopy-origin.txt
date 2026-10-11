@@ -1,0 +1,91 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\scripts\utms\latest-1.js
+Content Type: text/javascript
+
+Uri: https://icecar-loja.vercel.app/assets/styles-AmZeijte.css
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\assets\styles-AmZeijte-1.css
+Content Type: text/css
+
+Uri: https://icecar-loja.vercel.app/brand/icedcar-favicon.svg
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\brand\icedcar-favicon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://icecar-loja.vercel.app/brand/icedcar-logo-white.svg
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\brand\icedcar-logo-white-1.svg
+Content Type: image/svg+xml
+
+Uri: https://icecar-loja.vercel.app/brand/icedcar-logo.svg
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\brand\icedcar-logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://icecar-loja.vercel.app/brand/pac-correios.png
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\brand\pac-correios.png
+Content Type: image/png
+
+Uri: https://icecar-loja.vercel.app/brand/pix-logo.png
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\brand\pix-logo.png
+Content Type: image/png
+
+Uri: https://icecar-loja.vercel.app/brand/sedex-correios.png
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\brand\sedex-correios.png
+Content Type: image/png
+
+Uri: https://icecar-loja.vercel.app/checkout/checkout.css
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\checkout (1)\checkout.css
+Content Type: text/css
+
+Uri: https://icecar-loja.vercel.app/checkout/checkout.js
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\checkout (1)\checkout.js
+Content Type: application/javascript
+
+Uri: https://icecar-loja.vercel.app/checkout/match-original.css
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\checkout (1)\match-original.css
+Content Type: text/css
+
+Uri: https://icecar-loja.vercel.app/checkout?offer=1
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\checkout
+Content Type: text/html
+
+Uri: https://icecar-loja.vercel.app/google-tracking.js
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\google-tracking-1.js
+Content Type: application/javascript
+
+Uri: https://icecar-loja.vercel.app/media/testimonials/2a3cdf57-cbe1-4ede-9f7e-a1a8c267e367.webp
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\media\testimonials\2a3cdf57-cbe1-4ede-9f7e-a1a8c267e367-1.webp
+Content Type: image/webp
+
+Uri: https://icecar-loja.vercel.app/media/testimonials/c8748634-591f-406c-a8e9-1c579d5fd17a.webp
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\media\testimonials\c8748634-591f-406c-a8e9-1c579d5fd17a-1.webp
+Content Type: image/webp
+
+Uri: https://icecar-loja.vercel.app/media/testimonials/cf344acf-c8a9-4b41-86e5-75303626c6e9.webp
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\media\testimonials\cf344acf-c8a9-4b41-86e5-75303626c6e9-1.webp
+Content Type: image/webp
+
+Uri: https://icecar-loja.vercel.app/media/testimonials/eecd29bf-1ceb-4dfc-87ae-82681000cc9c.webp
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\media\testimonials\eecd29bf-1ceb-4dfc-87ae-82681000cc9c-1.webp
+Content Type: image/webp
+
+Uri: https://icecar-loja.vercel.app/meta-attribution-capture.js
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\meta-attribution-capture-1.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=969483765461099&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\tr-1
+Content Type: text/plain
+
+86e5-75303626c6e9.webp
+Content Type: image/webp
+
+Uri: https://icecar-loja.vercel.app/media/testimonials/eecd29bf-1ceb-4dfc-87ae-82681000cc9c.webp
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\media\testimonials\eecd29bf-1ceb-4dfc-87ae-82681000cc9c.webp
+Content Type: image/webp
+
+Uri: https://icecar-loja.vercel.app/meta-attribution-capture.js
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\meta-attribution-capture.js
+Content Type: application/javascript
+
+Uri: https://www.facebook.com/tr?id=969483765461099&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\icecar-loja.vercel.app\tr
+Content Type: text/plain
+
